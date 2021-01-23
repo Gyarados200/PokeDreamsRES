@@ -42,7 +42,8 @@
 			"species": "Aegislash",
 			"item": "Leftovers",
 			"ability": "Stance Change",
-			"evs": {"hp": 220, "spa": 196, "spe": 92},
+			"evs": {"hp": 220, "spa": 196, "spe": 92},			"evs": {"hp": 220, "spa": 196, "spe": 92},
+
 			"ivs": {"atk": 0},
 			"nature": "Modest",
 			"moves": [["King's Shield", "Hidden Power Ice", "Hidden Power Fire"], ["Toxic"], ["Substitute"], ["Shadow Ball"]]
