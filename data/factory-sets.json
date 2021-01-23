@@ -42,7 +42,8 @@
 				"item": ["Red Orb"],
 				"ability": ["Drought"],
 				"evs": {"hp": 144, "atk": 156, "spd": 56, "spe": 152},
-				"nature": "Adamant",
+				"nature": "Adamant",				"nature": "Adamant",
+
 				"moves": [["Precipice Blades"], ["Swords Dance"], ["Stealth Rock"], ["Rock Tomb"]]
 			}]
 		},
