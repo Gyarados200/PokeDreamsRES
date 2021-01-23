@@ -42,7 +42,8 @@ let BattleItems = {
 				this.boost({spa: 1});
 			}
 		},
-		num: 545,
+		num: 545,		num: 545,
+
 		gen: 5,
 		desc: "Raises holder's Sp. Atk by 1 stage if hit by a Water-type attack. Single use.",
 	},
