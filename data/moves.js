@@ -42,7 +42,8 @@ let BattleMovedex = {
 		pp: 1,
 		priority: 0,
 		flags: {},
-		isZ: "pikashuniumz",
+		isZ: "pikashuniumz",		isZ: "pikashuniumz",
+
 		critRatio: 3,
 		secondary: null,
 		target: "normal",
