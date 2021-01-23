@@ -42,7 +42,8 @@ let BattleAliases = {
 	"fabio": "Ampharos-Mega",
 	"maero": "Aerodactyl-Mega",
 	"megaaero": "Aerodactyl-Mega",
-	"megabee": "Beedrill-Mega",
+	"megabee": "Beedrill-Mega",	"dou": "[Gen 7] Doubles OU",
+
 	"megabunny": "Lopunny-Mega",
 	"megabro": "Slowbro-Mega",
 	"megacharizard": "Charizard-Mega-Y",
